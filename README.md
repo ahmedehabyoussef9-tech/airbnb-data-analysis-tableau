@@ -21,7 +21,7 @@ This project analyzes Airbnb listing data to identify trends in pricing, locatio
 
 ## Files
 - `Airbnb_Dashboard.twbx` – Tableau workbook
-- `dataset.xlsx` – Source data
+- `dataset.xlsx` – Source data (from thislink: https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
 
 ## How to Use
 1. Download the Tableau workbook
